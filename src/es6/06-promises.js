@@ -1,6 +1,6 @@
 const anotherFuncion = () => {
     return new Promise((resolve, rejecy)  => {
-        if (false) {
+        if (true) {  // false: para que se active el rejecy
             resolve("Hey!!");
         }
         else {
