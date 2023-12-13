@@ -12,5 +12,7 @@
     "node.js"
   ],
   "author": "Mario Celis <celioso1@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type":"module"
+
 }
